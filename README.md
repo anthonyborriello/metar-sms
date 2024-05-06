@@ -12,19 +12,18 @@ This Bash script allows users to fetch METAR (Meteorological Aerodrome Report) d
    curl -O https://raw.githubusercontent.com/anthonyborriello/metar-sms/main/metar_sms.sh
 
 2. **Install gammu**: Make sure you have [gammu](https://wammu.eu/gammu/) installed and configured for sending SMS.
+     ```
+     sudo apt install gammu
+     ```
 
-3. **Run the Script**:
+4. **Run the Script**:
    - **Linux/Raspberry Pi**: Open Terminal and navigate to the folder where you extracted the repository. Then, execute the following commands to make the script executable and run it:
      ```
      chmod +x metar_sms.sh
      bash metar_sms.sh
      ```
-     Youu may need to install gammu first.
-     ```
-     sudo apt install gammu
-     ```
 
-4. **Follow the Prompts**: The script will prompt you to input the ICAO code of the airport and the destination phone number for SMS. Follow the prompts to enter the required information.
+5. **Follow the Prompts**: The script will prompt you to input the ICAO code of the airport and the destination phone number for SMS. Follow the prompts to enter the required information.
 
 ## Acknowledgements
 
