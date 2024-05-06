@@ -20,7 +20,7 @@ This Bash script allows users to fetch METAR (Meteorological Aerodrome Report) d
 
 ## Acknowledgements
 
-We extend our gratitude to [aviationweather.gov](https://aviationweather.gov/) for providing the METAR data used in this script.
+Thanks to [aviationweather.gov](https://aviationweather.gov/) for providing the METAR data used in this script.
 
 ## License
 
