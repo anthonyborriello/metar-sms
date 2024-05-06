@@ -12,6 +12,10 @@ This Bash script allows users to fetch METAR (Meteorological Aerodrome Report) d
 
 You can find the script in [metar_sms.sh](metar_sms.sh).
 
+## Acknowledgements
+
+We extend our gratitude to [aviationweather.gov](https://aviationweather.gov/) for providing the METAR data used in this script.
+
 ## License
 
 This script is licensed under the [MIT License](LICENSE).
