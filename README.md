@@ -20,6 +20,9 @@ This Bash script allows users to fetch METAR (Meteorological Aerodrome Report) d
      bash metar_sms.sh
      ```
      If you're using Raspberry Pi, you may need to install gammu first.
+     ```
+     sudo apt install gammu
+     ```
 
 4. **Follow the Prompts**: The script will prompt you to input the ICAO code of the airport and the destination phone number for SMS. Follow the prompts to enter the required information.
 
