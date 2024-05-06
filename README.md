@@ -1,7 +1,6 @@
 # METAR SMS Notifier
 
 This Bash script allows users to fetch METAR (Meteorological Aerodrome Report) data for a given airport using its ICAO code.
-
 It then sends the result via SMS using a GSM-USB dongle like this: [GSM-USB dongle](https://amzn.to/4a5LVIl).
 
 Alternatively, you can use an old 2G or 3G modem if your carrier still supports them.
