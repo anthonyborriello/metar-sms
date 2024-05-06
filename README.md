@@ -17,10 +17,6 @@ This Bash script allows users to fetch METAR (Meteorological Aerodrome Report) d
    - **Linux/Raspberry Pi**: Open Terminal and navigate to the folder where you extracted the repository. Then, execute the following commands to make the script executable and run it:
      ```
      chmod +x metar_sms.sh
-     ./metar_sms.sh
-
-     or
-
      bash metar_sms.sh
      ```
      If you're using Raspberry Pi, you may need to install gammu first.
