@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # METAR SMS Notifier
-# Author: [Il tuo nome e cognome]
-# GitHub: [Il link al tuo profilo GitHub]
+# Author: [Antonio Borriello]
+# GitHub: [https://github.com/anthonyborriello]
 
 # Function to fetch and display METAR for a given airport
 get_metar() {
