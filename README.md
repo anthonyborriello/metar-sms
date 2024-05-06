@@ -19,7 +19,7 @@ This Bash script allows users to fetch METAR (Meteorological Aerodrome Report) d
      chmod +x metar_sms.sh
      bash metar_sms.sh
      ```
-     If you're using Raspberry Pi, you may need to install gammu first.
+     Youu may need to install gammu first.
      ```
      sudo apt install gammu
      ```
