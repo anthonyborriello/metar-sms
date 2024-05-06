@@ -28,5 +28,6 @@ This script is licensed under the [MIT License](LICENSE).
 
 ![metar_sms sh](https://github.com/anthonyborriello/metar-sms/assets/57049017/b560f02b-7dc0-4765-b101-e237f7276d6b)
 
-![IMG_5447](https://github.com/anthonyborriello/metar-sms/assets/57049017/2a24c078-7f66-4a1c-8e64-6f79b77c76e4)
+![IMG_5447](https://github.com/anthonyborriello/metar-sms/assets/57049017/37f56c43-45c0-4934-9c62-8aa17408e1c4)
+
 
