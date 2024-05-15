@@ -3,7 +3,7 @@
 This Bash script allows users to fetch METAR (Meteorological Aerodrome Report) data for a given airport using its ICAO code.  
 It then sends the result via SMS using a GSM-USB dongle.
 
-Something like the Huawei E-3531 or the ZTE MF-627
+Something like the Huawei E-3531, ZTE MF-627 or Huawei E392 for LTE.
 
 
 ## Usage
