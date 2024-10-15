@@ -41,6 +41,11 @@ Thanks to [aviationweather.gov](https://aviationweather.gov/) for providing the 
 
 This script is licensed under the [MIT License](LICENSE).
 
+## Author
+
+Antonio Borriello
+[antonioborriello.wordpress.com](https://antonioborriello.wordpress.com)  
+
 ![metar_sms sh](https://github.com/anthonyborriello/metar-sms/assets/57049017/b560f02b-7dc0-4765-b101-e237f7276d6b)
 
 ![IMG_5447](https://github.com/anthonyborriello/metar-sms/assets/57049017/37f56c43-45c0-4934-9c62-8aa17408e1c4)
