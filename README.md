@@ -43,8 +43,7 @@ This script is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Antonio Borriello
-[antonioborriello.wordpress.com](https://antonioborriello.wordpress.com)  
+Antonio Borriello [antonioborriello.wordpress.com](https://antonioborriello.wordpress.com)
 
 ![metar_sms sh](https://github.com/anthonyborriello/metar-sms/assets/57049017/b560f02b-7dc0-4765-b101-e237f7276d6b)
 
